@@ -1,12 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import logo from './logo.svg';
+// import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <a href="www.baidu.com">测试button</a>
+        <h1>Hello </h1>
+        <h2>Hello</h2>
+        <hr />
+        <code>const a = 'b'</code>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
